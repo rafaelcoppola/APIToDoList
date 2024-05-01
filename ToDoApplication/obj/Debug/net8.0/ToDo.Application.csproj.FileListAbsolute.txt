@@ -1,0 +1,16 @@
+C:\xampp\htdocs\APIToDoList\ToDoApplication\bin\Debug\net8.0\ToDo.Application.deps.json
+C:\xampp\htdocs\APIToDoList\ToDoApplication\bin\Debug\net8.0\ToDo.Application.dll
+C:\xampp\htdocs\APIToDoList\ToDoApplication\bin\Debug\net8.0\ToDo.Application.pdb
+C:\xampp\htdocs\APIToDoList\ToDoApplication\bin\Debug\net8.0\ToDo.Communication.dll
+C:\xampp\htdocs\APIToDoList\ToDoApplication\bin\Debug\net8.0\ToDo.Communication.pdb
+C:\xampp\htdocs\APIToDoList\ToDoApplication\obj\Debug\net8.0\ToDo.Application.csproj.AssemblyReference.cache
+C:\xampp\htdocs\APIToDoList\ToDoApplication\obj\Debug\net8.0\ToDo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\APIToDoList\ToDoApplication\obj\Debug\net8.0\ToDo.Application.AssemblyInfoInputs.cache
+C:\xampp\htdocs\APIToDoList\ToDoApplication\obj\Debug\net8.0\ToDo.Application.AssemblyInfo.cs
+C:\xampp\htdocs\APIToDoList\ToDoApplication\obj\Debug\net8.0\ToDo.Application.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\APIToDoList\ToDoApplication\obj\Debug\net8.0\ToDo.Application.sourcelink.json
+C:\xampp\htdocs\APIToDoList\ToDoApplication\obj\Debug\net8.0\ToDo.App.AD959D57.Up2Date
+C:\xampp\htdocs\APIToDoList\ToDoApplication\obj\Debug\net8.0\ToDo.Application.dll
+C:\xampp\htdocs\APIToDoList\ToDoApplication\obj\Debug\net8.0\refint\ToDo.Application.dll
+C:\xampp\htdocs\APIToDoList\ToDoApplication\obj\Debug\net8.0\ToDo.Application.pdb
+C:\xampp\htdocs\APIToDoList\ToDoApplication\obj\Debug\net8.0\ref\ToDo.Application.dll

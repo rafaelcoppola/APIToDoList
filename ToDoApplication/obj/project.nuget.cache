@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EwxI8Nd7ijJRI5+9V0SnVZlp4G/blDDB6wudIqKyoEh/m2PJ+JxmzJNKrcJrKKturcLBFVAeq6HMBwe4YGdUYQ==",
+  "dgSpecHash": "H5c0A76gXzD8SanDyDR3kSRDWJsvdj+x4C1S+VuNcE3aeaN50Y1FHUEyJbnZv8wDWQetR7wUoz/is27OdsGtPQ==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\cursos\\ToDo\\ToDoApplication\\ToDoApplication.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\APIToDoList\\ToDoApplication\\ToDo.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

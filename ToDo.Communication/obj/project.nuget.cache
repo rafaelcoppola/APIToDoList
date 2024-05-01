@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tPfG+WAriiQ3dhJ1cA5Td5VImzThHTOnCe0IlTD9xLuEHYgHFc12Nxha20qVzj30+A1OyR9GD7UrgAf0YWyeAg==",
+  "dgSpecHash": "qPsb/GKVAun9OLTswBdka+B8zjBxWuhKELfYNvjP9EANI++Kz4V+8jezWtxFmj1WTJov7TnA0E+S3QznQw0fMw==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\cursos\\ToDo\\ToDo.Communication\\ToDo.Communication.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\APIToDoList\\ToDo.Communication\\ToDo.Communication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

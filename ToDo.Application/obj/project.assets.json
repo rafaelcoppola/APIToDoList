@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ToDo.Communication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ToDo.Communication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToDo.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToDo.Communication/1.0.0": {
+      "type": "project",
+      "path": "../ToDo.Communication/ToDo.Communication.csproj",
+      "msbuildProject": "../ToDo.Communication/ToDo.Communication.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ToDo.Communication >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Rafael\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\xampp\\htdocs\\cursos\\ToDo\\ToDoApplication\\ToDoApplication.csproj",
+      "projectName": "ToDoApplication",
+      "projectPath": "C:\\xampp\\htdocs\\cursos\\ToDo\\ToDoApplication\\ToDoApplication.csproj",
+      "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+      "outputPath": "C:\\xampp\\htdocs\\cursos\\ToDo\\ToDoApplication\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\xampp\\htdocs\\cursos\\ToDo\\ToDo.Communication\\ToDo.Communication.csproj": {
+              "projectPath": "C:\\xampp\\htdocs\\cursos\\ToDo\\ToDo.Communication\\ToDo.Communication.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

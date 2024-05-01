@@ -10,8 +10,8 @@
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "8.0.3",
           "Swashbuckle.AspNetCore": "6.4.0",
-          "ToDo.Communication": "1.0.0",
-          "ToDoApplication": "1.0.0"
+          "ToDo.Application": "1.0.0",
+          "ToDo.Communication": "1.0.0"
         },
         "runtime": {
           "ToDo.dll": {}
@@ -75,17 +75,17 @@
           }
         }
       },
-      "ToDo.Communication/1.0.0": {
-        "runtime": {
-          "ToDo.Communication.dll": {}
-        }
-      },
-      "ToDoApplication/1.0.0": {
+      "ToDo.Application/1.0.0": {
         "dependencies": {
           "ToDo.Communication": "1.0.0"
         },
         "runtime": {
-          "ToDoApplication.dll": {}
+          "ToDo.Application.dll": {}
+        }
+      },
+      "ToDo.Communication/1.0.0": {
+        "runtime": {
+          "ToDo.Communication.dll": {}
         }
       }
     }
@@ -145,12 +145,12 @@
       "path": "swashbuckle.aspnetcore.swaggerui/6.4.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
     },
-    "ToDo.Communication/1.0.0": {
+    "ToDo.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "ToDoApplication/1.0.0": {
+    "ToDo.Communication/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

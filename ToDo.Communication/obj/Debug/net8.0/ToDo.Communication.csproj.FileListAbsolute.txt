@@ -9,3 +9,15 @@ C:\xampp\htdocs\cursos\ToDo\ToDo.Communication\obj\Debug\net8.0\ToDo.Communicati
 C:\xampp\htdocs\cursos\ToDo\ToDo.Communication\obj\Debug\net8.0\refint\ToDo.Communication.dll
 C:\xampp\htdocs\cursos\ToDo\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.pdb
 C:\xampp\htdocs\cursos\ToDo\ToDo.Communication\obj\Debug\net8.0\ref\ToDo.Communication.dll
+C:\xampp\htdocs\APIToDoList\ToDo.Communication\bin\Debug\net8.0\ToDo.Communication.deps.json
+C:\xampp\htdocs\APIToDoList\ToDo.Communication\bin\Debug\net8.0\ToDo.Communication.dll
+C:\xampp\htdocs\APIToDoList\ToDo.Communication\bin\Debug\net8.0\ToDo.Communication.pdb
+C:\xampp\htdocs\APIToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\APIToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.AssemblyInfoInputs.cache
+C:\xampp\htdocs\APIToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.AssemblyInfo.cs
+C:\xampp\htdocs\APIToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\APIToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.sourcelink.json
+C:\xampp\htdocs\APIToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.dll
+C:\xampp\htdocs\APIToDoList\ToDo.Communication\obj\Debug\net8.0\refint\ToDo.Communication.dll
+C:\xampp\htdocs\APIToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.pdb
+C:\xampp\htdocs\APIToDoList\ToDo.Communication\obj\Debug\net8.0\ref\ToDo.Communication.dll

@@ -8,24 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Rafael\\.nuget\\packages\\": {}
+    "C:\\Users\\Rafael\\.nuget\\packages\\": {},
+    "E:\\Microsoft Visual Studio\\SDKs\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\cursos\\ToDo\\ToDo.Communication\\ToDo.Communication.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\APIToDoList\\ToDo.Communication\\ToDo.Communication.csproj",
       "projectName": "ToDo.Communication",
-      "projectPath": "C:\\xampp\\htdocs\\cursos\\ToDo\\ToDo.Communication\\ToDo.Communication.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\APIToDoList\\ToDo.Communication\\ToDo.Communication.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\cursos\\ToDo\\ToDo.Communication\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\APIToDoList\\ToDo.Communication\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Microsoft Visual Studio\\SDKs\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
